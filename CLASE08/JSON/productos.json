@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "nombre": "Remera Nike",
+    "precio": 2000,
+    "stock": 10,
+    "descripcion": "Remera de algodón Nike, ideal para uso diario",
+    "imagen": "./img/remera-nike.jpg",
+    "descuento": true,
+    "categoria": "remeras"
+  },
+  {
+    "id": 2,
+    "nombre": "Pantalón Adidas",
+    "precio": 3500,
+    "stock": 8,
+    "descripcion": "Pantalón deportivo Adidas con tecnología ClimaCool",
+    "imagen": "./img/pantalon-adidas.jpg",
+    "descuento": false,
+    "categoria": "pantalones"
+  },
+  {
+    "id": 3,
+    "nombre": "Zapatillas Puma",
+    "precio": 5000,
+    "stock": 5,
+    "descripcion": "Zapatillas urbanas Puma, cómodas y resistentes",
+    "imagen": "./img/zapatillas-puma.jpg",
+    "descuento": true,
+    "categoria": "calzado"
+  },
+  {
+    "id": 4,
+    "nombre": "Gorra New Era",
+    "precio": 1200,
+    "stock": 15,
+    "descripcion": "Gorra New Era ajustable, diseño clásico",
+    "imagen": "./img/gorra-newera.jpg",
+    "descuento": false,
+    "categoria": "accesorios"
+  },
+  {
+    "id": 5,
+    "nombre": "Campera North Face",
+    "precio": 8000,
+    "stock": 3,
+    "descripcion": "Campera North Face impermeable con capucha desmontable",
+    "imagen": "./img/campera-northface.jpg",
+    "descuento": true,
+    "categoria": "abrigos"
+  },
+  {
+    "id": 6,
+    "nombre": "Buzo Under Armour",
+    "precio": 4500,
+    "stock": 7,
+    "descripcion": "Buzo Under Armour con tecnología térmica para deportes",
+    "imagen": "./img/buzo-underarmour.jpg",
+    "descuento": false,
+    "categoria": "abrigos"
+  },
+  {
+    "id": 7,
+    "nombre": "Shorts Nike",
+    "precio": 1800,
+    "stock": 12,
+    "descripcion": "Shorts deportivos Nike, ligeros y transpirables",
+    "imagen": "./img/shorts-nike.jpg",
+    "descuento": true,
+    "categoria": "pantalones"
+  },
+  {
+    "id": 8,
+    "nombre": "Medias Adidas",
+    "precio": 800,
+    "stock": 20,
+    "descripcion": "Pack de 3 pares de medias Adidas deportivas",
+    "imagen": "./img/medias-adidas.jpg",
+    "descuento": false,
+    "categoria": "accesorios"
+  },
+  {
+    "id": 9,
+    "nombre": "Remera Reebok",
+    "precio": 1900,
+    "stock": 9,
+    "descripcion": "Remera Reebok de entrenamiento con tecnología DryFit",
+    "imagen": "./img/remera-reebok.jpg",
+    "descuento": true,
+    "categoria": "remeras"
+  },
+  {
+    "id": 10,
+    "nombre": "Zapatillas Converse",
+    "precio": 4200,
+    "stock": 6,
+    "descripcion": "Zapatillas Converse Chuck Taylor clásicas",
+    "imagen": "./img/zapatillas-converse.jpg",
+    "descuento": false,
+    "categoria": "calzado"
+  }
+]
