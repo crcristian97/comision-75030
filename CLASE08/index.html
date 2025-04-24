@@ -4,9 +4,40 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body>
-    
-    <script src="app.js"></script>
+    <h1>Hola soy un nodo</h1>
+    <h2>Hol soy otro nodo</h2>
+
+
+    <article>
+        <h1>Lista de SUPER</h1>
+        <h2>hijo de div</h2>
+        <div>
+          <ul>
+            <li>hijo</li>
+            <li>hijo</li>
+            <li>hijo</li>
+          </ul>
+        </div>
+    </article>
+    <div class="mb-4">
+        <label for="nombre" class="block text-gray-700 text-sm font-bold mb-2">Nombre:</label>
+        <input type="text" name="nombre" id="nombre" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" placeholder="Ingrese su nombre">
+    </div>
+    <div class="mb-4">
+        <label for="apellido" class="block text-gray-700 text-sm font-bold mb-2">Apellido:</label>
+        <input type="text" name="apellido" id="apellido" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" placeholder="Ingrese su apellido">
+    </div>
+    <button class="cursor-pointer bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" id="buttonHelp" onclick="respuestaClick()">
+        te ayudamos
+    </button>
+
+
+    <div id="contenedor"></div>
+
+
+    <script src="scrappin.js"></script>
 </body>
 </html>
